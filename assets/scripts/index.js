@@ -9,3 +9,4 @@ function minNumber (a, b) {
 }
 
 console.log(minNumber(4, 8))
+console.log(minNumber(10, 7))
